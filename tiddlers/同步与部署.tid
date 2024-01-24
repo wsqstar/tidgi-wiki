@@ -1,9 +1,10 @@
 created: 20240124125301789
 creator: Shiqi Wang
-modified: 20240124131916031
+modified: 20240124134757519
 modifier: Shiqi Wang
 tags: 测试
 title: 同步与部署
+wysiwyg: yes
 
 * 开启使用GitHub Actions部署GitHub pages
 * push一次， 自动执行
@@ -11,10 +12,8 @@ title: 同步与部署
 * 配置成功后，可以尝试修改DNS解析
 * 
 
+<<<[ext[https://zhuanlan.zhihu.com/p/140473235]]
+vercel 部署 <a >https://talk.tiddlywiki.org/t/how-to-get-vercel-going-on-a-tw-fork/6212/5</a>
 
-
-
-<<<
-https://zhuanlan.zhihu.com/p/140473235
 <<<
 
