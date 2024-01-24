@@ -2,10 +2,11 @@ calendarEntry: yes
 caption: 测试日历
 created: 20240124132336001
 creator: Shiqi Wang
-draft.title: 
 endDate: 20240123194500000
-modified: 20240124132336001
+icon: 📒
+modified: 20240124145222059
 modifier: Shiqi Wang
+page-cover: https://source.unsplash.com/random
 startDate: 20240123173000000
 tags: 
 title: 2024-01-24T01:30:00+08:00
