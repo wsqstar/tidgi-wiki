@@ -2,4 +2,5 @@ tags: $:/plugins/linonetwo/sub-wiki/readme
 title: $:/config/FileSystemPaths
 type: text/vnd.tiddlywiki
 
+
 [kin::to[APrivateContent]search-replace:g[/],[_]search-replace:g[:],[_]addprefix[/]addprefix[wiki-shiqi-private]addprefix[/]addprefix[subwiki]]
