@@ -2,6 +2,4 @@ tags: $:/plugins/linonetwo/sub-wiki/readme
 title: $:/config/FileSystemPaths
 type: text/vnd.tiddlywiki
 
-
-[in-tagtree-of[APrivateContent]]:and[search-replace:g[/],[_]search-replace:g[:],[_]addprefix[/]addprefix[private-shiqi-new]addprefix[/]addprefix[subwiki]]
 [kin::to[APrivateContent]search-replace:g[/],[_]search-replace:g[:],[_]addprefix[/]addprefix[wiki-shiqi-private]addprefix[/]addprefix[subwiki]]
