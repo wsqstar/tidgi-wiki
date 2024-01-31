@@ -1,9 +1,10 @@
 created: 20240131041655428
 creator: Shiqi Wang
-modified: 20240131075712324
+modified: 20240131093631151
 modifier: Shiqi Wang
 tags: Review Writing Skill
 title: 文献综述的写作方式
+type: text/vnd.tiddlywiki
 wysiwyg: yes
 
 现在要解决这样的一个问题：
@@ -24,9 +25,7 @@ wysiwyg: yes
 
 中间件：
 
-* <a >https://zotlit.aidenlx.top/zh-CN</a>
+* <a >[ext[https://zotlit.aidenlx.top/zh-CN]]</a>
 ** 整合了zotero和obsidian
-* <a >https://tiddlywiki.com/#tiddlywiki.files%20Files</a>
+* <a >[ext[https://tiddlywiki.com/#tiddlywiki.files%20Files]]</a>
 ** tiddly wiki的 文件访问工具 
-
-
