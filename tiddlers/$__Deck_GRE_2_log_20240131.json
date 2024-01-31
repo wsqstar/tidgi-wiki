@@ -1,7 +1,10 @@
 {
     "11544554": "{\"rating\":2,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20240131115444010\",\"state\":0}",
+    "11565970": "{\"rating\":1,\"elapsed_days\":0.0017076967592592593,\"scheduled_days\":0,\"review\":\"20240131115658053\",\"state\":1}",
     "115315835": "{\"rating\":2,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20240131115313732\",\"state\":0}",
     "115345639": "{\"rating\":1,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20240131115343403\",\"state\":0}",
     "115408770": "{\"rating\":1,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20240131115406657\",\"state\":0}",
-    "115431539": "{\"rating\":1,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20240131115430509\",\"state\":0}"
+    "115431539": "{\"rating\":1,\"elapsed_days\":0,\"scheduled_days\":0,\"review\":\"20240131115430509\",\"state\":0}",
+    "115626463": "{\"rating\":1,\"elapsed_days\":0.0018753240740740742,\"scheduled_days\":0,\"review\":\"20240131115625432\",\"state\":1}",
+    "115640984": "{\"rating\":1,\"elapsed_days\":0.0017745949074074075,\"scheduled_days\":0,\"review\":\"20240131115639981\",\"state\":1}"
 }
