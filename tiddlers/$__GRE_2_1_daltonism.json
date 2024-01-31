@@ -1,0 +1,23 @@
+[
+    {
+        "title": "$:/GRE_2/1/daltonism",
+        "word": "daltonism",
+        "annotate-text": "daltonism",
+        "annotate-prefix": " ",
+        "annotate-suffix": " ",
+        "word_json": "{\"wordRank\":1,\"headWord\":\"daltonism\",\"content\":{\"word\":{\"wordHead\":\"daltonism\",\"wordId\":\"GRE_2_1\",\"content\":{\"star\":0,\"phone\":\"'dɔ:ltənizəm\",\"speech\":\"daltonism\",\"trans\":[{\"tranCn\":\"[医]色盲(=color blindness)\",\"descOther\":\"英释\",\"descCn\":\"中释\",\"pos\":\"n\",\"tranOther\":\"colour blindness, esp the confusion of red and green \"}]}}},\"bookId\":\"GRE_2\"}",
+        "caption": "{{||$:/plugins/tidme/decks/GRE_2/front}}",
+        "text": "{{||$:/plugins/tidme/decks/GRE_2/back}}",
+        "type": "text/vnd.tiddlywiki",
+        "difficulty": "5.869999999999999",
+        "due": "20240131115813732",
+        "elapsed_days": "0",
+        "lapses": "0",
+        "last_review": "20240131115313732",
+        "reps": "1",
+        "scheduled_days": "0",
+        "stability": "0.6",
+        "state": "1",
+        "annotate-colour": "orange"
+    }
+]
