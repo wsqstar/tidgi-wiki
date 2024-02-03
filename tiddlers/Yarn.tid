@@ -1,6 +1,6 @@
 created: 20240203042540576
 creator: Shiqi Wang
-modified: 20240203043347347
+modified: 20240203043557978
 modifier: Shiqi Wang
 tags: Ubuntu Front-end
 title: Yarn
@@ -22,11 +22,5 @@ echo "deb [ext[https://dl.yarnpkg.com/debian/]] stable main" | sudo tee /etc/apt
 sudo apt update
 sudo apt install yarn
 
-解决了
-
-参考：
-
-<<<* [ext[https://blog.csdn.net/zhujuyu/article/details/79223809]]
-* 这个好用： <a >https://blog.csdn.net/a240149010/article/details/101906984</a>
-<cite ></cite><<<
-
+参考
+https://blog.csdn.net/zhujuyu/article/details/79223809
