@@ -1,8 +1,8 @@
 created: 20240203042540576
 creator: Shiqi Wang
-modified: 20240203043557978
+modified: 20240203090631061
 modifier: Shiqi Wang
-tags: Ubuntu Front-end
+tags: Ubuntu Front-end cmdtest
 title: Yarn
 
 我的Ubuntu 22.04最近遇到了cmdtest取代了yarn的错误：
@@ -18,9 +18,17 @@ sudo apt remove purge cmdtest
 使用了
 
 curl -sS [ext[https://dl.yarnpkg.com/debian/pubkey.gpg]] | sudo apt-key add -
+
 echo "deb [ext[https://dl.yarnpkg.com/debian/]] stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+
 sudo apt update
+
 sudo apt install yarn
 
 参考
-https://blog.csdn.net/zhujuyu/article/details/79223809
+
+<<<
+* https://blog.csdn.net/zhujuyu/article/details/79223809
+<<<
+
+

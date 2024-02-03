@@ -1,0 +1,16 @@
+created: 20240203085933586
+creator: Shiqi Wang
+modified: 20240203090724147
+modifier: Shiqi Wang
+tags: Antv/L7
+title: Antv/L7
+
+Antv/L7 很好用。
+
+! 安装
+
+```
+yarn add @antv/l7
+```
+
+即可

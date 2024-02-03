@@ -1,9 +1,91 @@
 created: 20240127153136968
 creator: Shiqi Wang
-modified: 20240127153227710
+modified: 20240203090837244
 modifier: Shiqi Wang
 tags: TiddlyWiki CPL
 title: TiddlyWiki
 
 是一个很好的wiki系统，其中网站部署方式深得我心。
 推荐插件： Google analytics插件，可以使用CPL系统直接搜索到。
+推荐语法教学
+https://zhuanlan.zhihu.com/p/353349058
+
+''加粗''
+//斜体//
+__下划线__
+~~删除线~~
+
+文字^^上角标^^
+文字,,下角标,,
+
+短破折 -- 线
+长破折 --- 线
+---
+分割线  
+
+`代码`
+
+``在代码中使用英文`引号`的方法``
+
+```
+代码块
+```
+
+"""
+强制
+换行
+"""
+
+实际上在 TiddlyWiki 里正常换行要打两次回车
+
+<<<
+引用
+<<<
+
+> 引用
+>> 中的又一
+>>> 个引用
+
+!一级标题
+!!二级标题
+!!!三级标题
+
+* 无序列表
+** 无序列表中的复合列表
+
+# 有序列表
+## 有序列表的复合列表
+
+;术语
+:定义
+
+# 混合
+#* 列表
+#;你想
+#:怎样
+#>就怎样
+
+!.h1-class.large CSS类可以这样使用
+
+[[引用的站内条目标题]]
+[[自定义显示的文字|引用的站内条目标题]]
+
+IsLinkOmg（自动驼峰链接）
+~IsLinkOmg（取消自动驼峰链接）
+
+直接显示链接：http://tiddlywiki.com 
+[[自定义显示文字|http://tiddlywikicom]]
+不显示链接只显示纯文字： ~http://not.alink.com
+
+本地链接：
+file:///c:/Windows/foo
+
+相对链接：
+[ext[a]] 打开就是 tiddlywiki所在路径/a
+[ext[自定义显示内容|实际链接]]
+图片：
+[img[example.jpg]]
+[img[example|example.jpg]]
+[img width=16 [example.jpg]]
+[img class="tc-image" [example.jpg]]
+[img[http://www.tiddlywiki.com/favicon.ico]]
