@@ -1,0 +1,8 @@
+created: 20240203233501055
+creator: Shiqi Wang
+modified: 20240203233616514
+modifier: Shiqi Wang
+tags: 前端 Front-end React
+title: 使用""包裹属性值
+
+最近在尝试anvt L7的使用中，发现很多时候用''无法正确传递属性值，使用""就可以了。
