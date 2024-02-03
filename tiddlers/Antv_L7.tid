@@ -1,6 +1,6 @@
 created: 20240203085933586
 creator: Shiqi Wang
-modified: 20240203090724147
+modified: 20240203092701380
 modifier: Shiqi Wang
 tags: Antv/L7
 title: Antv/L7
@@ -11,6 +11,7 @@ Antv/L7 很好用。
 
 ```
 yarn add @antv/l7
+@antv/l7-maps
 ```
 
 即可
