@@ -1,0 +1,11 @@
+created: 20240204065009762
+creator: Shiqi Wang
+modified: 20240204065101929
+modifier: Shiqi Wang
+tags: WebPack
+title: SourceMap
+
+为了应对报错非常多的问题。
+```
+GENERATE_SOURCEMAP=false react-scripts start
+```
