@@ -1,0 +1,13 @@
+created: 20240130132200783
+creator: Shiqi Wang
+modified: 20240130132857369
+modifier: Shiqi Wang
+tags: Note 笔记
+title: 双向链接与图
+
+双向链接和图是实现思维素质的非常好的方式。
+但是目前不同的软件对他们的支持不同。
+
+* obsidian： 支持双向链接和图
+* OneNote 支持双向链接 但是图形化显示不行
+* Tiddywiki 支持双向链接和图形化显示，但是wikitext本身不适合写作
