@@ -1,8 +1,8 @@
 created: 20240130132200783
 creator: Shiqi Wang
-modified: 20240131095202282
+modified: 20240216145942512
 modifier: Shiqi Wang
-tags: Note 笔记 Zotero Obsidian OneNote TiddlyWiki
+tags: Note 笔记 Zotero Obsidian OneNote TiddlyWiki Lattics
 title: 双向链接与关系图谱
 
 双向链接和图是实现思维素质的非常好的方式。
@@ -13,5 +13,7 @@ title: 双向链接与关系图谱
 * Tiddywiki 支持双向链接和图形化显示，但是wikitext本身不适合写作
 * zotero：
 ** 插件 Zotero Style [ext[https://www.bilibili.com/video/BV15V4y19711]]
+* lattics
+** https://lattics.zineapi.com/zh-CN   
 
 
