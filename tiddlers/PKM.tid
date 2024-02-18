@@ -1,10 +1,11 @@
 created: 20240216163029804
 creator: Shiqi Wang
 icon: 📒
-modified: 20240217002241558
+modified: 20240218044849898
 modifier: Shiqi Wang
-tags: Professional Knowledgeable PKM Feishu Dingding Yuque
+tags: Professional Knowledgeable PKM Feishu Dingding Yuque 网络社区
 title: PKM
+type: text/vnd.tiddlywiki
 
 有很多PKM personal knowledge manage system。个人知识管理系统在各个平台被介绍以及传播，有很多用户基础也有很多实现。
 
@@ -12,5 +13,11 @@ title: PKM
 ** 界面比较简单
 ** 收费
 ** 只是单纯的文档
+
+
+PKM 也有很多社区
+
+* https://pkmer.cn/
+
 
 
