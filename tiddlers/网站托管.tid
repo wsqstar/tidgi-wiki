@@ -1,0 +1,17 @@
+created: 20240301103310536
+creator: Shiqi Wang
+modified: 20240301103436491
+modifier: Shiqi Wang
+tags: 
+title: 网站托管
+
+* #PKM/网站
+**  国外平台
+*** vercel
+*** supabase
+**** 必须使用代理
+*** aircode
+** 国内平台
+*** uni cloud 基于D cloud
+
+
