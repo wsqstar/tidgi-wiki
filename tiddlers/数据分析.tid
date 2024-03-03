@@ -1,8 +1,9 @@
 created: 20240303045925299
 creator: Shiqi Wang
-modified: 20240303051600329
+icon: 🖥️
+modified: 20240303051742512
 modifier: Shiqi Wang
-tags: Data Analysis
+tags: Data Analysis Tools Platform
 title: 数据分析
 type: text/vnd.tiddlywiki
 
@@ -19,6 +20,3 @@ type: text/vnd.tiddlywiki
 ''数据库工具''：MySQL、PostgreSQL、Oracle、SQLServer、MongoDB、Hive
 
 ''编程工具''：Python、R、Julia、Scala、Spark、Java、Hadoop​
-
-
-
