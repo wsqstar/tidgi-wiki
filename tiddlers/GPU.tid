@@ -1,7 +1,8 @@
 created: 20241230025724164
 creator: Shiqi Wang
-modified: 20241230025755683
+modified: 20241230044126239
 modifier: Shiqi Wang
+tags: Index
 title: GPU
 
 GPU（Graphics Processing Unit，图形处理器）是一种专门设计用于处理图形和并行计算任务的硬件。最初，GPU主要用于渲染图像、视频和3D图形，广泛应用于游戏、影视制作和图形设计等领域。随着技术的发展，GPU因其强大的并行计算能力，逐渐被用于通用计算任务，如科学计算、机器学习和人工智能。
