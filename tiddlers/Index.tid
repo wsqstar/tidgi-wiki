@@ -1,14 +1,14 @@
 created: 20230104152413814
 creator: 林一二
-modified: 20241229113906626
+modified: 20241230025603815
 modifier: Shiqi Wang
 tags: About
 title: Index
 type: text/vnd.tiddlywiki
-wysiwyg: yes
 
 Hello！This is Shiqi Wang’s tiddly wiki.
-and its hosted on [[GitHub|https://github.com/wsqstar/tidgi-wiki]], you can visit it via [[Tidy|https://tidy.1314.io/]]
+and its hosted on [ext[GitHub|https://github.com/wsqstar/tidgi-wiki]], you can visit it via [ext[Tidy(https://tidy.1314.io/)|https://tidy.1314.io/]]
 
+If you can not click the link, click the botton (T with pencil) on top right.
 
-Visit [[教程 (Chinese)|https://tw-cn.netlify.app/]] or [[Official Site (English)|https://tiddlywiki.com/]] to learn.
+Visit [ext[教程 (Chinese)|https://tw-cn.netlify.app/]] or [ext[Official Site (English)|https://tiddlywiki.com/]] to learn.
