@@ -4,7 +4,6 @@ modified: 20240130132738114
 modifier: Shiqi Wang
 tags: 算法 GIS Algorithm 选址算法
 title: P-median算法
-wysiwyg: yes
 
 p-median算法是一种用于解决选址问题（facility location problem）的经典算法，其目标是选择最佳的位置来安置设施，以满足一组客户的需求，并使得总体服务成本最小化。以下是p-median算法的原理和一个简单的实例：
 
