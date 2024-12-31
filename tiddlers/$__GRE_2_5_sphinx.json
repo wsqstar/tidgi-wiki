@@ -10,14 +10,14 @@
         "text": "{{||$:/plugins/tidme/decks/GRE_2/back}}",
         "type": "text/vnd.tiddlywiki",
         "difficulty": "5.869999999999999",
-        "due": "20240131115944010",
-        "elapsed_days": "0",
+        "due": "20250102083851387",
+        "elapsed_days": "334.86397427083335",
         "lapses": "0",
-        "last_review": "20240131115444010",
-        "reps": "1",
-        "scheduled_days": "0",
+        "last_review": "20241231083851387",
+        "reps": "2",
+        "scheduled_days": "2",
         "stability": "0.6",
-        "state": "1",
-        "annotate-colour": "orange"
+        "state": "2",
+        "annotate-colour": "dodgerblue"
     }
 ]
