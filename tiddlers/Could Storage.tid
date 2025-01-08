@@ -1,0 +1,29 @@
+created: 20250101115713340
+creator: Shiqi Wang
+list: input
+modified: 20250108161343699
+modifier: Shiqi Wang
+tags: Cloud NAS [[Could Storage]] 云存储 存储
+title: Could Storage
+wysiwyg: yes
+
+<<<* 相关阅读： [ext[https://www.v2ex.com/t/1100661#reply89]] 对NAS的选购很有意义。
+* 数据存储的 321 原则（三重备份、二地保存、一种介质）
+* 
+<<<
+
+互联网上有很多不错的云存储供应商。
+
+!!! 国际：
+
+* [ext[https://mega.io/pricing]]
+** 20 GB
+** 有限带宽
+* 
+
+!!! 国内
+
+<<<<cite >针对国内网盘的审查策略，重要的数据请加密并分压缩包。</cite><<<
+
+* 百度网盘
+* 阿里云盘
